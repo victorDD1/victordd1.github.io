@@ -1,0 +1,9 @@
+industry:
+  - title: "French Atomic Energy Commission (CEA), Pessac"
+    description: "<i>Master Thesis: Parametrization of robotic actions through demonstrations (graded A+, 20/20).</i><br>Developed a graphical interface for novice users to program robotic arms for assembly tasks via kinesthetic demonstrations, with real-robot experiments and a user study. Led to a publication in <b>Fusion Engineering and Design 2025</b>."
+    time: "<b>Research Intern</b>: May – Nov. 2023."
+    page: https://www.cea.fr/english
+  - title: "Thales, Palaiseau"
+    description: "Developed a proof-of-concept deep learning method for reconstructing corrupted audio recordings. Recorded and processed terabytes of audio data from an experimental optical-fiber distributed acoustic sensor (DAS)."
+    time: "<b>Research Engineer Intern</b>: Jun. – Dec. 2021."
+    page: https://www.thalesgroup.com/en

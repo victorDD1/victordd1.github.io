@@ -1,0 +1,59 @@
+# Fields: title, ieee, authors, conference_short, conference, image, arxiv, pdf, page, code, bibtex, notes, selected
+# "selected: true" shows the paper under the default "Selected" tab; every entry appears under "All".
+main:
+  - title: "Humanoid-DART: Humanoid Loco-Manipulation using Diffusion-guided Augmentation through Relabeling and Tracking"
+    authors: Pranav Debbad*, Kanish Thiagarajan*, <strong>Victor Dhédin</strong>*, Shafeef Omar, Majid Khadiv
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters (RA-L), 2026.
+    arxiv: https://arxiv.org/abs/2606.26855
+    pdf: https://arxiv.org/pdf/2606.26855
+    video: https://www.youtube.com/watch?v=ORAL3zjS2O0
+    selected: true
+  - title: "DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization"
+    authors: <strong>Victor Dhédin</strong>*, Ilyass Taouil*, Shafeef Omar*, Dian Yu, Kun Tao, Angela Dai, Majid Khadiv
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters (RA-L), 2026.
+    ieee: https://ieeexplore.ieee.org/document/11675851/
+    arxiv: https://arxiv.org/abs/2602.06827
+    pdf: https://arxiv.org/pdf/2602.06827
+    page: https://atarilab.github.io/dynaretarget.io/
+    code: https://github.com/Atarilab/sbto
+    video: https://youtu.be/YlopoVulwi8
+    selected: true
+  - title: "Simultaneous Contact Sequence and Patch Planning for Dynamic Locomotion"
+    authors: <strong>Victor Dhédin</strong>, Haizhou Zhao, Majid Khadiv
+    conference_short: Humanoids
+    conference: IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2025.
+    arxiv: https://arxiv.org/abs/2508.12928
+    pdf: https://arxiv.org/pdf/2508.12928
+    video: https://youtu.be/Is_NNQbW10c
+    selected: true
+  - title: "Task and Motion Planning for Humanoid Loco-manipulation"
+    authors: Michal Ciebielski, <strong>Victor Dhédin</strong>, Majid Khadiv
+    conference_short: Humanoids
+    conference: IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2025.
+    arxiv: https://arxiv.org/abs/2508.14099
+    pdf: https://arxiv.org/pdf/2508.14099
+    video: https://youtu.be/og3_T4VfXzc
+  - title: "Diffusion-based Learning of Contact Plans for Agile Locomotion"
+    authors: <strong>Victor Dhédin</strong>, Adithya Kumar Chinnakkonda Ravi, Armand Jordana, Huaijiang Zhu, Avadesh Meduri, Ludovic Righetti, Bernhard Schölkopf, Majid Khadiv
+    conference_short: Humanoids
+    conference: IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2024.
+    arxiv: https://arxiv.org/abs/2403.03639
+    pdf: https://arxiv.org/pdf/2403.03639
+    video: https://youtu.be/qvIvTUFh_q4
+    selected: true
+  - title: "Learning Feasible Transitions for Efficient Contact Planning"
+    authors: Rikhat Akizhanov, <strong>Victor Dhédin</strong>, Majid Khadiv, Ivan Laptev
+    conference_short: L4DC
+    conference: Learning for Dynamics and Control Conference (L4DC), 2024.
+    arxiv: https://arxiv.org/abs/2407.11788
+    pdf: https://arxiv.org/pdf/2407.11788
+  - title: "Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion"
+    authors: <strong>Victor Dhédin</strong>, Haolong Li, Shahram Khorshidi, Lukas Mack, Adithya Kumar Chinnakkonda Ravi, Avadesh Meduri, Paarth Shah, Felix Grimminger, Ludovic Righetti, Majid Khadiv, Jörg Stückler
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2023.
+    arxiv: https://arxiv.org/abs/2210.02127
+    pdf: https://arxiv.org/pdf/2210.02127
+    video: https://www.youtube.com/watch?v=GFitG3TLEmw
+    selected: true

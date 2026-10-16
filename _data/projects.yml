@@ -1,0 +1,10 @@
+main:
+  - title: "<span style='font-size: 1.1em;'>SBTO: Sampling-Based Trajectory Optimization</span> <a href='https://github.com/Atarilab/sbto'><img src='https://img.shields.io/github/stars/Atarilab/sbto?style=social' alt='GitHub stars' style='vertical-align: -2px; margin-left: 5px;'/></a>"
+    description: "Official implementation of the sampling-based trajectory optimization behind <b>DynaRetarget</b>. It refines imperfect kinematic trajectories into dynamically feasible humanoid motions, incrementally extending the optimization horizon for long-horizon tasks."
+    language: Python, MuJoCo
+    code: https://github.com/Atarilab/sbto
+    page: https://atarilab.github.io/dynaretarget.io/
+  - title: "<span style='font-size: 1.1em;'>ATARI_NMPC</span> <a href='https://github.com/Atarilab/ATARI_NMPC'><img src='https://img.shields.io/github/stars/Atarilab/ATARI_NMPC?style=social' alt='GitHub stars' style='vertical-align: -2px; margin-left: 5px;'/></a>"
+    description: "Modular Nonlinear Model Predictive Control (NMPC) framework for quadruped robots, built on the Acados solver and Pinocchio. Easily adapted to new robots through URDF, gait and controller configuration."
+    language: Python, Acados, Pinocchio
+    code: https://github.com/Atarilab/ATARI_NMPC

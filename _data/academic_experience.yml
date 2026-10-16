@@ -1,0 +1,9 @@
+academic:
+  - title: "Technical University of Munich"
+    description: "<i><b>Topics</b>: Humanoid Loco-Manipulation, Synthetic Data Generation, Trajectory Optimization, Contact Planning.</i> <br> <b>Advisor</b>: Prof. Majid Khadiv."
+    time: "<b>PhD Candidate</b>: 2023 – Present."
+    page: https://www.tum.de/en/
+  - title: "Max Planck Institute for Intelligent Systems, Tübingen"
+    description: "Integrated a Visual-Inertial Odometry (VIO) algorithm on a Solo12 quadruped robot, with extensive real-world indoor and outdoor experiments. Published at <b>ICRA 2023</b>."
+    time: "<b>Research Assistant</b>: Jan. – Jun. 2022."
+    page: https://is.mpg.de/
