@@ -38,6 +38,7 @@ main:
     arxiv: https://arxiv.org/abs/2508.14099
     pdf: https://arxiv.org/pdf/2508.14099
     video: https://youtu.be/og3_T4VfXzc
+    image: /assets/img/teasers/tamp.jpg
   - title: "Diffusion-based Learning of Contact Plans for Agile Locomotion"
     authors: <strong>Victor Dhédin</strong>, Adithya Kumar Chinnakkonda Ravi, Armand Jordana, Huaijiang Zhu, Avadesh Meduri, Ludovic Righetti, Bernhard Schölkopf, Majid Khadiv
     conference_short: Humanoids
@@ -53,6 +54,7 @@ main:
     conference: Learning for Dynamics and Control Conference (L4DC), 2024.
     arxiv: https://arxiv.org/abs/2407.11788
     pdf: https://arxiv.org/pdf/2407.11788
+    image: /assets/img/teasers/feasible-transitions.jpg
   - title: "Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion"
     authors: <strong>Victor Dhédin</strong>, Haolong Li, Shahram Khorshidi, Lukas Mack, Adithya Kumar Chinnakkonda Ravi, Avadesh Meduri, Paarth Shah, Felix Grimminger, Ludovic Righetti, Majid Khadiv, Jörg Stückler
     conference_short: ICRA
