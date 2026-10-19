@@ -6,3 +6,7 @@ Gemfile.lock
 .jekyll-cache
 git-update.sh
 .claude/
+
+# Raw source videos (only processed clips in assets/videos/web are published)
+assets/videos/*
+!assets/videos/web/

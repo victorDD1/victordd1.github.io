@@ -1,4 +1,4 @@
-# Fields: title, ieee, authors, conference_short, conference, image, arxiv, pdf, page, code, bibtex, notes, selected
+# Fields: title, teaser_video, ieee, authors, conference_short, conference, image, arxiv, pdf, page, code, bibtex, notes, selected
 # "selected: true" shows the paper under the default "Selected" tab; every entry appears under "All".
 main:
   - title: "Humanoid-DART: Humanoid Loco-Manipulation using Diffusion-guided Augmentation through Relabeling and Tracking"
@@ -8,6 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2606.26855
     pdf: https://arxiv.org/pdf/2606.26855
     video: https://www.youtube.com/watch?v=ORAL3zjS2O0
+    teaser_video: /assets/videos/web/humanoid-dart.mp4
     selected: true
   - title: "DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization"
     authors: <strong>Victor Dhédin</strong>*, Ilyass Taouil*, Shafeef Omar*, Dian Yu, Kun Tao, Angela Dai, Majid Khadiv
@@ -19,6 +20,7 @@ main:
     page: https://atarilab.github.io/dynaretarget.io/
     code: https://github.com/Atarilab/sbto
     video: https://youtu.be/YlopoVulwi8
+    teaser_video: /assets/videos/web/dynaretarget.mp4
     selected: true
   - title: "Simultaneous Contact Sequence and Patch Planning for Dynamic Locomotion"
     authors: <strong>Victor Dhédin</strong>, Haizhou Zhao, Majid Khadiv
@@ -27,6 +29,7 @@ main:
     arxiv: https://arxiv.org/abs/2508.12928
     pdf: https://arxiv.org/pdf/2508.12928
     video: https://youtu.be/Is_NNQbW10c
+    teaser_video: /assets/videos/web/contact-patch.mp4
     selected: true
   - title: "Task and Motion Planning for Humanoid Loco-manipulation"
     authors: Michal Ciebielski, <strong>Victor Dhédin</strong>, Majid Khadiv
@@ -42,6 +45,7 @@ main:
     arxiv: https://arxiv.org/abs/2403.03639
     pdf: https://arxiv.org/pdf/2403.03639
     video: https://youtu.be/qvIvTUFh_q4
+    teaser_video: /assets/videos/web/diffusion-planner.mp4
     selected: true
   - title: "Learning Feasible Transitions for Efficient Contact Planning"
     authors: Rikhat Akizhanov, <strong>Victor Dhédin</strong>, Majid Khadiv, Ivan Laptev
@@ -56,4 +60,5 @@ main:
     arxiv: https://arxiv.org/abs/2210.02127
     pdf: https://arxiv.org/pdf/2210.02127
     video: https://www.youtube.com/watch?v=GFitG3TLEmw
+    teaser_video: /assets/videos/web/legvio.mp4
     selected: true
